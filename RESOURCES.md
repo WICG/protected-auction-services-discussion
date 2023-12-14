@@ -2,8 +2,8 @@
 
 ## Services
 
-* [Aggregation Service for Measurement](https://github.com/privacysandbox/aggregation-service)
-* [Bidding and Auction Servers](https://github.com/privacysandbox/bidding-auction-servers)
+* [Aggregation Service](https://github.com/privacysandbox/aggregation-service)
+* [Bidding and Auction Services](https://github.com/privacysandbox/bidding-auction-servers)
 * [Protected Audiences Key/Value Service](https://github.com/privacysandbox/fledge-key-value-service)
 
 ## Libraries
@@ -12,6 +12,6 @@
 
 ## Documentation
 
-* [Attribution Reporting API](https://github.com/WICG/attribution-reporting-api/tree/main)
-* [Protected Audiences](https://github.com/WICG/turtledove)
-* [Protected Auction Sercices](https://github.com/privacysandbox/protected-auction-services-docs)
+* [Attribution Reporting](https://github.com/WICG/attribution-reporting-api/tree/main)
+* [Protected Audience](https://github.com/WICG/turtledove)
+* [Protected Auction Services](https://github.com/privacysandbox/protected-auction-services-docs)
