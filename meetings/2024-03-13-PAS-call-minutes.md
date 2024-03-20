@@ -63,13 +63,11 @@ _Please use the "Raise My Hand" feature in Google Meet_.
   solutions like Intel SGX/TDX or AMD SEV SNP
 - Cost targets for trusted servers
     - [https://github.com/WICG/protected-auction-services-discussion/issues/48][5]
+    - [https://github.com/privacysandbox/protected-auction-services-docs/blob/main/bidding_auction_cost.md][6]
+    - [Bidding and Auction Cost Presentation][8]
 
-  -
-    [https://github.com/privacysandbox/protected-auction-services-docs/blob/main/bidding_auction_cost.md][6]
-
-    - Azure participation in scale testing, concerns with CCF as KMS
-  - [Azure participation in beta and scale testing · Issue #31 ·
-    WICG/protected-auction-services-discussion (github.com)][7]
+- Azure participation in scale testing, concerns with CCF as KMS
+  - [Azure participation in beta and scale testing · Issue #31 · WICG/protected-auction-services-discussion (github.com)][7]
 
 Notetaker: Martin Pal
 
@@ -241,4 +239,4 @@ Martin: Time to learn about details of measurement/boot. (See pre-read document 
 [5]: https://github.com/WICG/protected-auction-services-discussion/issues/48
 [6]: https://github.com/privacysandbox/protected-auction-services-docs/blob/main/bidding_auction_cost.md
 [7]: https://github.com/WICG/protected-auction-services-discussion/issues/31
-
+[8]: https://github.com/WICG/protected-auction-services-discussion/blob/main/resources/bidding-auction-cost-presentation-2024-03-13.pdf
