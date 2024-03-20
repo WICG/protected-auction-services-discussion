@@ -19,4 +19,4 @@
 
 ## Presentations
 
-* [Bidding and Auction Cost][https://github.com/WICG/protected-auction-services-discussion/blob/main/resources/bidding-auction-cost-presentation-2024-03-13.pdf]
+* [Bidding and Auction Cost](https://github.com/WICG/protected-auction-services-discussion/blob/main/resources/bidding-auction-cost-presentation-2024-03-13.pdf)
