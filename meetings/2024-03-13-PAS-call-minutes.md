@@ -239,4 +239,4 @@ Martin: Time to learn about details of measurement/boot. (See pre-read document 
 [5]: https://github.com/WICG/protected-auction-services-discussion/issues/48
 [6]: https://github.com/privacysandbox/protected-auction-services-docs/blob/main/bidding_auction_cost.md
 [7]: https://github.com/WICG/protected-auction-services-discussion/issues/31
-[8]: https://github.com/WICG/protected-auction-services-discussion/blob/main/resources/bidding-auction-cost-presentation-2024-03-13.pdf
+[8]: resources/bidding-auction-cost-presentation-2024-03-13.pdf
