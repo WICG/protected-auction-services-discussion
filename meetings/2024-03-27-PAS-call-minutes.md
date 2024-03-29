@@ -27,7 +27,7 @@ _To join the speaker queue_:
 
 _Please use the "Raise My Hand" feature in Google Meet_.
 
-## Attendees {:#attendees}
+## Attendees
 
 1. Wendell Baker (Yahoo)
 1. Kapil Vaswani (Microsoft)
@@ -48,13 +48,13 @@ _Please use the "Raise My Hand" feature in Google Meet_.
 1. Kevin Naughton (Google Privacy Sandbox)
 1. (Google Privacy Sandbox)
 
-## Agenda {:#agenda}
+## Agenda
 
 -
 
 Notetaker: Akshay Pundle
 
-### Notes {:#notes}
+### Notes
 
 Premkumar srinivasan: when can we get info about inference capabilities?
 
@@ -135,7 +135,7 @@ Retrieval explainer:
 Inference explainer:
 [https://github.com/privacysandbox/protected-auction-services-docs/blob/main/inference_overview.md][6]
 
-### Chat log {:#chat-log}
+### Chat log
 
 [1]: https://github.com/WICG/protected-auction-services-discussion/issues/27
 [2]: https://github.com/WICG/protected-auction-services-discussion/tree/main/meetings
